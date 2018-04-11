@@ -1,0 +1,99 @@
+
+https://github.com/vasu34k12/NN_Training
+https://github.com/vasu34k12/Chef.git
+
+
+C:\Program\java\jre1.8.0_74\bin\javaw.exe
+
+Download Softwared links:
+https://jenkins.io/
+https://jenkins.io/download/
+https://www.sonatype.com/nexus-repository-sonatype
+https://maven.apache.org/download.cgi (Binary zip archive)
+https://www.sonarqube.org/sonarqube-6-7-lts/
+
+https://www.sonarqube.org/downloads/
+
+capgemini:http://10.109.32.183:8081/nexus/content/groups/public/
+
+--------------
+
+27/03/2018:
+
+Maven location:
+
+D:\Venkat_Softwares\apache-maven-3.2.2-bin\apache-maven-3.2.2\bin
+
+28/03/2018:
+-----------
+
+https://pivotal.io/platform
+
+https://maven.apache.org/ -- checking all the maven versions..
+
+https://swagger.io/:--It will used for creating for documents
+
+https://www.sonatype.com/oss-thank-you-zip
+
+http://localhost:8081/nexus
+
+03/04/2018:
+-----------
+
+https://docs.docker.com/toolbox/toolbox_install_windows/
+https://hub.docker.com/?next=https%3A%2F%2Fhub.docker.com%2F
+https://hub.docker.com/_/jenkins/
+
+https://katacoda.com/
+https://katacoda.com/courses/docker-orchestration/playground
+
+
+04/04/2018:
+genkins ocal host:
+
+http://192.168.99.100:8080/
+
+
+05/04/2018:
+---------
+https://dzone.com/articles/the-difference-between-bdd-and-tdd
+
+
+05/04/2018:
+---------
+
+https://cucumber.io/docs/reference
+
+https://github.com/vasu34k12/BDD-Java-JavaScript/blob/master/Scrum%2BTemplates%2BV2.xls
+
+09/04/2018:
+-----------
+https://www.python.org/
+https://www.sqlalchemy.org/
+https://www.nginx.com/
+https://sentry.io/welcome/
+http://scikit-learn.org/stable/
+
+Pythons installed location:
+C:\Users\Learning\AppData\Local\Programs\Python\Python36-32\Scripts
+
+--Anaconda Cloud --machine and deepleaning
+Miniconda--https://conda.io/miniconda.html
+command -- $ conda 
+
+Python repository:
+
+https://pypi.python.org/
+
+local repository: 
+C:\Users\Learning\AppData\Local\Programs\Python\Python36-32\Lib\site-packages
+
+Pycharm:
+https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows
+
+
+10/04/2018:
+----------
+
+https://docs.python.org/3/
+
